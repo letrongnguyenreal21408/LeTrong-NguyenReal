@@ -1,8 +1,8 @@
+![logo](https://github.com/letrongnguyenreal21408/LeTrong-NguyenReal/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Lê Trọng Nguyên Real</h1>
 <h3 align="center">I'm a discord bot developer and a new programmer</h3>
 <img align="right" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letrongnguyenreal21408" alt="letrongnguyenreal21408" /></a> </p>
-
 - I am studying at Tran Van Hoai High School **Tran Van Hoai High School**
 
 - 🌱 I’m currently learning **Python , Html ,Js , C++**
